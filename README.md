@@ -19,5 +19,10 @@ https://zenn.dev/tokyotech_lm/articles/d6cb3a8fdfc907
 ## 応用編
 何かに応用できないがとおもったので、LLMをlangchainを通じて呼び出し、J-Stageに載っている雑誌の抄録をスクレイピングしてベクトルストアをつくって、RAGしてみた。
 今回は取れた抄録の数が少ない（27件）のでいまいちな結果になってしまった。
+試してみたときの様子をYouTubeにアップロードしました。
+
+https://youtu.be/df05w1yxnzE
+
+
 
 
